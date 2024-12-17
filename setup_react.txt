@@ -1,0 +1,21 @@
+==>run this command=>npm create vite@latest react-project-1 --template react
+
+==>npm is node package manager
+
+==>vite is a modern frontend build tool.It's designed to provide a faster way to develop modern web applications
+
+==>vite is used to build a project with frameworks like React,vue
+
+==>create vite@latest.Here we are telling npm to use the official Vite Project creation script to scaffload a new project
+
+==> react-project-1 directory will be created
+
+==>- -template: This flag specifies which starter template Vite should use to set up the project.
+
+==>react : Tells Vite to configure the project with a React template.
+
+(2)==>steps after running the command
+
+==>cd react-project-1
+==>npm install
+==>npm run dev
